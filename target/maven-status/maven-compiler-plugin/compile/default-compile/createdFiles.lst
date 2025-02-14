@@ -1,0 +1,7 @@
+com\srp\dto\ChatGPTRequest.class
+com\srp\dto\ChatGptResponse$Choice.class
+com\srp\dto\Message.class
+com\srp\ChatgptBotApplication.class
+com\srp\config\OpenAIConfig.class
+com\srp\controller\CustomBotController.class
+com\srp\dto\ChatGptResponse.class
